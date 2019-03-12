@@ -22,6 +22,4 @@ public class AxisDemoImpl implements AxisDemo {
         logger.info("responseXML:"+responseXML);
         return responseXML;
     }
-
-
 }
